@@ -1,0 +1,2 @@
+# 3-Amigos
+Step 1 Preheat oven to 200C. Heat oil in a non-stick frying pan over medium heat. Cook onion for 2 minutes, or until soft. Add mince. Cook, stirring with a wooden spoon, for 5 minutes or until browned. Step 2 Add kidney beans, chilli powder, seasoning, tomato paste and water. Reduce heat to medium-low. Simmer for 5 minutes, or until thick. Stir through coriander. Step 3 Arrange corn chips on a heatproof plate. Top with mince. Sprinkle with cheese. Bake for 15 minutes, or until hot. Top with salsa, avocado and sour cream. Serve.
