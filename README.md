@@ -6,14 +6,14 @@ Prepared for: Workshop W02
 # Table of Contents
 1. 1.0 Introduction
 1. 2.0 Concept
-1. 3.0 Tea
+1. 3.0 Team
     1. 3.1 Team Leader
     1. 3.2 Team Roles	
     1. 3.3 Decision Making	
     1. 3.4 Conflict Resolution	
 1. 4.0 Communications	
-    1. 4.1 Communication Platforms:	
-    1. 4.2 Meetings:	
+    1. 4.1 Communication Platforms	
+    1. 4.2 Meetings	
         1. 4.1.1 Meeting Venue	
         1. 4.1.2 Supplementary Meetings	
         1. 4.1.3 Attendance
