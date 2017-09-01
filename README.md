@@ -49,7 +49,7 @@ The team encompasses three members, who are:
 
 Name | Student Number | Slack | GitHub
 -----|------ | -------|-------|
-Abigal Hume | 43931884 | abhume97 | abhume
+Abigail Hume | 43931884 | abhume97 | abhume
 Alison Collins | 4359224 | s4359224 | alsatiax
 Gabby Mendoza | 43952898 | gooby | Hachiko97
 
