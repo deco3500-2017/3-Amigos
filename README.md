@@ -42,8 +42,9 @@ EduBoard is a dashboard and padlet like system, whereby teachers can share learn
 
 In terms of usability, each teacher and or class possesses a dashboard and each parent is encouraged to create an account. The teacher invites a particular parent to join the dashboard with the classroom password. Utilising their account and classroom password, a parent has access to the teacher’s dashboard. When a teacher uploads content, each resource is tagged and filtered into a category. Tagged items can be viewed in each category on the left hand side of the dashboard. This effectively allows for ease of filtering results and locating content. Online messaging is also available in Eduboard whereby there is a general chat channel between all users of that particular dashboard. Further, there is the option to privately message the teacher. However, to avoid constant messaging, the left hand side of the dashboard also showcases a frequently asked questions section with appropriate answers. 
 
-The concept of Eduboard specifically applies to the social and mobile theory of computer-supported cooperative work (CSCW) as coined by Irene Greif and Paul Cashman in 1984. Eduboard also applies to the concept of Collaborative Learning Work and Collaboration Awareness as presented by Dr. Charles Findley in 1987. Both these theories address how collaborative activities and their coordination can be supported by means of computer systems. Eduboard adheres to these theories as the concept is a centralised and shared information space where all activity is represented. Moreover, Eduboard is designed for multi-user collaboration, synchronous communication and concurrent work is possible as it is a different time and different place matrix. Finally, Eduboard also fosters an explicit and direct social environment whereby users are represented in the system and there is minimal anonymity. This effectively reduces acts of aggression, bullying and harassment. As the presence of social and mobile technology is increasing in the 21st century, adopting these theories in the design and development of Eduboard will enhance the usability and functionality of the concept. 
-3.0 Team
+The concept of Eduboard specifically applies to the social and mobile theory of computer-supported cooperative work (CSCW) as coined by Irene Greif and Paul Cashman in 1984. Eduboard also applies to the concept of Collaborative Learning Work and Collaboration Awareness as presented by Dr. Charles Findley in 1987. Both these theories address how collaborative activities and their coordination can be supported by means of computer systems. Eduboard adheres to these theories as the concept is a centralised and shared information space where all activity is represented. Moreover, Eduboard is designed for multi-user collaboration, synchronous communication and concurrent work is possible as it is a different time and different place matrix. Finally, Eduboard also fosters an explicit and direct social environment whereby users are represented in the system and there is minimal anonymity. This effectively reduces acts of aggression, bullying and harassment. As the presence of social and mobile technology is increasing in the 21st century, adopting these theories in the design and development of Eduboard will enhance the usability and functionality of the concept.
+
+## 3.0 Team
 The team encompasses three members, who are:
 
 Name | Student Number | Slack | GitHub
@@ -65,20 +66,17 @@ Poor performance within the team will be resolved in a mature manner. If any tea
 Team conflict will be resolved through open, mature and honest team discussion. All team members will attend a team meeting which will air any issues or conflict. If after this discussion resolution cannot be reached, a tutor will be consulted and their opinion on the situation sought. 
 
 ## 4.0 Communications
-### 4.1 Communication Platforms:
+### 4.1 Communication Platforms
 Our team will be primarily using Facebook Messenger to communicate. We have chosen this social platform, as we are familiar with how to use it, and already have access to the service.
-
 We will also be utilising ZenHub to outline tasks and visualise our project progress. We have chosen to adopt this to help us be organised, to ensure we meet all deadlines on time. GitHub issues will also be used to assign group tasks, specifically those directly related to assessment requirements. 
-
 Slack will be used to contact the course teaching staff privately, regarding any queries or concerns, through the Social and Mobile Computing group.
-### 4.2 Meetings:
+### 4.2 Meetings
 #### 4.1.1 Meeting Venue
 Our team will  conduct meetings every Tuesday (Building 49-316, 12:00 P.M. - 2:00 P.M.)  and Friday (Building 78-109, 10:00 A.M. - 12:00 P.M.) during the allocated workshop and practical sessions.  
 #### 4.1.2 Supplementary Meetings
 Supplementary meetings can be organised, however, the team must be informed of the proposed date and location, 48 hours in advance. All members are expected to attend all meetings, unless agreed upon otherwise.
 #### 4.1.3 Attendance
 If a team member is unable to attend a meeting, the team must be informed 24 hours in advance, prior the specified meeting date. If an unexpected event prohibits the team member from attending the meeting, they will be excused if a reasonable excuse is provided. He/she will also be responsible to catch up by reading the meeting minutes.
-
 A scribe will also be designated to record meeting minutes and key outcomes. This document will be made available immediately after the meeting has commenced, on the team’s  Google Drive.
 ## 4.3 Files
 #### 4.3.1 File Storage and Sharing
