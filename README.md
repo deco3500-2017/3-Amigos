@@ -78,7 +78,7 @@ Supplementary meetings can be organised, however, the team must be informed of t
 #### 4.1.3 Attendance
 If a team member is unable to attend a meeting, the team must be informed 24 hours in advance, prior the specified meeting date. If an unexpected event prohibits the team member from attending the meeting, they will be excused if a reasonable excuse is provided. He/she will also be responsible to catch up by reading the meeting minutes.
 A scribe will also be designated to record meeting minutes and key outcomes. This document will be made available immediately after the meeting has commenced, on the team’s  Google Drive.
-## 4.3 Files
+### 4.3 Files
 #### 4.3.1 File Storage and Sharing
 Files will be stored and shared on Google Drive and GitHub. This platform has been all group members can access it easily.
 #### 4.3.2 Naming Conventions
