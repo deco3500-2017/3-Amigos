@@ -2,9 +2,8 @@ Please view the final conference poster and banner as well as documentation in t
 
 Please view the low-fidelity electronic prototype in the 
 
-Please view the interactive functional componenent in the 
+Please view the concept website with embedded interactive functional component in the 3_AMIGOS_PRODUCT_WEBSITE.ZIP folder. 
 
-Please view the concept website in the 
 
 
 # 3-Amigos Project Proposal
