@@ -1,3 +1,12 @@
+Please view the final conference poster and banner as well as documentation in the FINAL SUBMISSION folder.
+
+Please view the low-fidelity electronic prototype in the 
+
+Please view the interactive functional componenent in the 
+
+Please view the concept website in the 
+
+
 # 3-Amigos Project Proposal
 DECO3500 - Social Mobile Computing 
 Prepared by: 3 Amigos
