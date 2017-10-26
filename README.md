@@ -1,6 +1,6 @@
 Please view the final conference poster and banner as well as documentation in the FINAL SUBMISSION folder --> https://github.com/deco3500-2017/3-Amigos/tree/master/FINAL%20SUBMISSION
 
-Please view the low-fidelity electronic prototype via http://run.mockplus.com/OzdSvo2FhZqEVzn5/index.html or in the ELECTRONIC PROTOTYPE VERSION 2 folder --> https://github.com/deco3500-2017/3-Amigos/tree/master/Electronic%20Prototype%20Version%202 
+Please view the low-fidelity electronic prototype via http://run.mockplus.com/OzdSvo2FhZqEVzn5/index.html or in the FINAL SUBMISSION folder in the FINAL EDUBOARD ELECTRONIC PROTOTYPE folder --> https://github.com/deco3500-2017/3-Amigos/tree/master/FINAL%20SUBMISSION/Final%20Eduboard%20Electronic%20Prototype
 
 Please view the concept website with embedded interactive functional component in the 3_AMIGOS_PRODUCT_WEBSITE.ZIP folder --> https://github.com/deco3500-2017/3-Amigos/blob/master/3_Amigos_Product_Website.zip 
 
